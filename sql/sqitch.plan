@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=sql
+%uri=https://github.com/erikbaranowski/sandbox-postgres11
+
+appschema 2019-06-11T01:41:21Z vagrant <vagrant@localhost.localdomain> # Add schema for all flipr objects.
