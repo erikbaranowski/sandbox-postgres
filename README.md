@@ -4,7 +4,7 @@
 
 This repository holds the configuration and instructions for hosting a php7 development sandbox.
 
-Currently running PHP 7.3 on CentOS 7.6
+Currently running Postgres 11 on CentOS 7.6
 
 ## Install
 
