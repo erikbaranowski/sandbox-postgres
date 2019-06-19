@@ -1,8 +1,8 @@
-# sandbox-php7
+# sandbox-postgres11
 
 ## About
 
-This repository holds the configuration and instructions for hosting a php7 development sandbox.
+This repository holds the configuration and instructions for hosting a Postgres 11 development sandbox.
 
 Currently running Postgres 11 on CentOS 7.6
 
