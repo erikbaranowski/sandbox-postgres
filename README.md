@@ -1,4 +1,4 @@
-# sandbox-postgres11
+# sandbox-postgres
 
 ## About
 
