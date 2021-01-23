@@ -4,16 +4,20 @@
 
 This repository holds the configuration and instructions for hosting a Postgres 11 development sandbox.
 
-Currently running Postgres 11 on CentOS 7.6
+Currently running Postgres 13 on CentOS 8.2
 
 ## Install
 
-1. install [VirtualBox 5.2.30](https://www.virtualbox.org/)
-2. install [Vagrant 2.2.4](https://www.vagrantup.com/)
-3. on Windows 7 SP1 ONLY you will have to update [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6) to version 3 or above for Vagrant
-4. run cmd as admin
-5. cd to directory with this repo
-6. `vagrant up`
+1. install [VirtualBox 6.1.18](https://www.virtualbox.org/)
+2. install [Vagrant 2.2.14](https://www.vagrantup.com/)
+3. run cmd as admin
+4. cd to directory with this repo
+5. `vagrant up`
+
+## Bonus Tips
+
+1. on Windows 7 SP1 ONLY you will have to update [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6) to version 3 or above for Vagrant
+2. You may need to enable VMs in your bios. Google is your friend for how to do this with your motherboard.
 
 ## ssh
 
