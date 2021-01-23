@@ -2,7 +2,7 @@
 
 ## About
 
-This repository holds the configuration and instructions for hosting a Postgres 11 development sandbox.
+This repository holds the configuration and instructions for hosting a Postgres 13 development sandbox.
 
 Currently running Postgres 13 on CentOS 8.2
 
@@ -32,3 +32,7 @@ Currently running Postgres 13 on CentOS 8.2
 	- *port:* 5432
 	- *username:* postgres
 	- *password:* postgres
+
+## Sqitch
+
+1. [Sqitch](http://sqitch.org/) is installed and configured for new schema development
